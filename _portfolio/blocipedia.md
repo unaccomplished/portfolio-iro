@@ -2,7 +2,7 @@
 layout: post
 title: Blocipedia
 feature-img: "img/sample_feature_img.png"
-thumbnail-path: "img/blocipedia.png"
+thumbnail-path: "img/Blocipedia_thumbnail.png"
 short-description: Blocipedia is a SaaS Wiki Collaboration Tool.
 
 ---

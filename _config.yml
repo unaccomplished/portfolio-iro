@@ -7,7 +7,7 @@ theme_settings:
   # Meta
   title: Jocelyn Hsu
   avatar: avatar.png
-  gravatar: jocelyn@unaccomplishedlady.com # Email MD5 hash
+  gravatar: f7196670c01911c53f7df1034175f11f # Email MD5 hash
   description: "A portfolio for Jocelyn Hsu" # used by search engines
 
   # Header and footer text

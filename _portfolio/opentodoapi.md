@@ -2,7 +2,7 @@
 layout: post
 title: Open Todo API
 feature-img: "img/sample_feature_img.png"
-thumbnail-path: "img/opentodoapi.png"
+thumbnail-path: "img/OpenTodoAPI_thumbnail.png"
 short-description: External API with Authentication.
 
 ---

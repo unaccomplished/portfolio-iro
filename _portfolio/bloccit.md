@@ -2,7 +2,7 @@
 layout: post
 title: Bloccit
 feature-img: "img/sample_feature_img.png"
-thumbnail-path: "img/bloccit.png"
+thumbnail-path: "img/Bloccit_thumbnail.png"
 short-description: Bloccit is an app where people can post, vote on, share, and save links and comments.
 
 ---
