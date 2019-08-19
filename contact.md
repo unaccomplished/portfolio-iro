@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-permalink: /contact/
+permalink:
 feature-img: "img/color.png"
 ---
 
